@@ -5,6 +5,9 @@ a{
 a:hover{
   color:green;
 }
+
+</style> 
+
 .body{
 display:flex;
    flex-direction: column;
@@ -19,4 +22,3 @@ display: flex;
 .article{
    flex: 3;
 }
-</style>
