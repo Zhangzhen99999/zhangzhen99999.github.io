@@ -6,18 +6,18 @@ a:hover{
   color:green;
 }
 </style>
-.body{
+body{
 display:flex;
    flex-direction: column;
 }
-.main{
+main{
    display:flex;
    flex: auto;
 }
-   .aside{
+ aside{
    flex: 1;
    }
-.article{
+article{
    flex: 3;
 }
 
