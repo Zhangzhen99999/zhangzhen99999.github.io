@@ -5,12 +5,12 @@ a{
 a:hover{
   color:green;
 }
-.body{
+</style>
+#body{
 display:flex;
    flex-direction: column;
 }
-.main{
-display: flex;
+#main{
    flex: auto;
 }
    .aside{
@@ -20,6 +20,6 @@ display: flex;
    flex: 3;
 }
 
-</style> 
+
 
 
