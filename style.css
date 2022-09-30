@@ -6,11 +6,11 @@ a:hover{
   color:green;
 }
 </style>
-#body{
+.body{
 display:flex;
    flex-direction: column;
 }
-#main{
+.main{
    display:flex;
    flex: auto;
 }
